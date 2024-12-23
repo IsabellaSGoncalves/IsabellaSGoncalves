@@ -37,10 +37,13 @@ Me chamo Isabella, tenho 19 anos e atualmente estou cursando DSM, Desenvolviment
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ## Contato 📧
+
 <a href="mailto:isabelllacom2l@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/isabella-da-silva-gon%C3%A7alves-504b032b6/)
+
 
 ## Notas adicionais 💬
 
