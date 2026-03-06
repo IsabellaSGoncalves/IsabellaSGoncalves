@@ -11,24 +11,24 @@ Me chamo Isabella, tenho 20 anos e atualmente estou cursando DSM, Desenvolviment
 
 ### 🫖 [Meet-Tea](https://github.com/robertfullstack/Meet-TEA-3.0)  
 Rede social com foco em aproximar e fortalecer conexões entre pessoas autistas, oferecendo um ambiente digital acessível, acolhedor e intuitivo.
+*Stack*: Desenvolvedora Front-End (React)
 
 ### 🧠 [Seren](https://github.com/Debora-Carvalho/sistema-gerenciamento-psicologia)  
 Sistema de gerenciamento para psicólogos, com funcionalidades como cadastro de paciente, registro referente a pacientes, gerenciamento de agendamentos e controle de pagamentos. 
+*Stack*: Desenvolvedora Back-End (Node.js | Express) 
 
 ### 🌵 [Pindorama](https://github.com/Debora-Carvalho/sistema-web-pindorama)
 Aplicação web para difundir conteúdos sobre o Patrimônio Cultural Imaterial Brasileiro.
+*Stack*: Desenvolvedora Back-End (Ruby | Python)
 
 ## Linguagens 🖥️
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-
-<div style="width: 400px;">
-  <a href="https://github.com/IsabellaSGoncalves/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSGoncalves&langs_count=8" alt="Top Langs" />
-  </a>
-</div>
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ## Frameworks 🔧
 
