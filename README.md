@@ -15,7 +15,7 @@ Rede social com foco em aproximar e fortalecer conexões entre pessoas autistas,
 ### 🧠 [Seren](https://github.com/Debora-Carvalho/sistema-gerenciamento-psicologia)  
 Sistema de gerenciamento para psicólogos, com funcionalidades como cadastro de paciente, registro referente a pacientes, gerenciamento de agendamentos e controle de pagamentos. 
 
-### 🌵 [Seren](https://github.com/Debora-Carvalho/sistema-web-pindorama)
+### 🌵 [Pindorama](https://github.com/Debora-Carvalho/sistema-web-pindorama)
 Aplicação web para difundir conteúdos sobre o Patrimônio Cultural Imaterial Brasileiro.
 
 ## Linguagens 🖥️
