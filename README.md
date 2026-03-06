@@ -11,14 +11,17 @@ Me chamo Isabella, tenho 20 anos e atualmente estou cursando DSM, Desenvolviment
 
 ### 🫖 [Meet-Tea](https://github.com/robertfullstack/Meet-TEA-3.0)  
 Rede social com foco em aproximar e fortalecer conexões entre pessoas autistas, oferecendo um ambiente digital acessível, acolhedor e intuitivo.
+
 *Stack*: Desenvolvedora Front-End (React)
 
 ### 🧠 [Seren](https://github.com/Debora-Carvalho/sistema-gerenciamento-psicologia)  
 Sistema de gerenciamento para psicólogos, com funcionalidades como cadastro de paciente, registro referente a pacientes, gerenciamento de agendamentos e controle de pagamentos. 
+
 *Stack*: Desenvolvedora Back-End (Node.js | Express) 
 
 ### 🌵 [Pindorama](https://github.com/Debora-Carvalho/sistema-web-pindorama)
 Aplicação web para difundir conteúdos sobre o Patrimônio Cultural Imaterial Brasileiro.
+
 *Stack*: Desenvolvedora Back-End (Ruby | Python)
 
 ## Linguagens 🖥️
