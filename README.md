@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Isabella, tenho 20 anos e atualmente estou cursando DSM, Desenvolvimento de Software Multiplataforma, na Fatec Zona Leste de São Paulo. 
+Me chamo Isabella, tenho 21 anos e atualmente estou cursando DSM, Desenvolvimento de Software Multiplataforma, na Fatec Zona Leste de São Paulo. 
 
 - Programo com CSS, HTML, TypeScript, JavaScript, Java, PHP, Python e Ruby. 
 - Me orientei com bibliotecas como React e Java.Swing.
